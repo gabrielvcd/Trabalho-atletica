@@ -1,0 +1,44 @@
+#cad{
+
+    padding-top: 20px;
+  padding-left: 450px;
+  background-color: beige;
+}
+.cad{
+    background-color: beige;
+    width: 363px;
+    height: 324px;
+    margin-left: 50px;
+}
+.cad label {margin-left: 50px;}
+.cad button{
+    margin-left: 124px;
+    margin-top: 30px;
+}
+
+.cad input{
+    margin-top: 20px;
+}
+
+.conteudo-rodape ul li {
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 20px;
+  }
+  .conteudo-rodape {
+    background-color: black;
+    height: 120px;
+    margin-top: -9px;
+  }
+  .conteudo-rodape ul {
+    margin-left: 60%;
+  }
+  .conteudo-rodape ul li a {
+    margin-top: 50px;
+  }
+  .todos {
+    margin-top: -70px;
+    color: aquamarine;
+    margin-left: 89px;
+  }
+  
